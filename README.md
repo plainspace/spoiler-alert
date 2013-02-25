@@ -1,8 +1,7 @@
 # SPOILER ALERT!
 
-Do you ever have spoilers and wish you could have them on your page in a way that wasn't annoying? With spoiler alert you can! Hide any text with a bit of blurriness. Clicking reveals. Mouseover gives you a taste.
-
-Should work on images and text.
+Don't spoil it! Hide copy and images with a bit of SVG blur. Hint on mouseover. Reveal on click.
+Do you publish spoilers? Do you wish you could have them on your page in a way that wasn't fucking rude? With Spoiler Alert! you can! Hide spoilers with a bit of blur.
 
 ## Usage
 
