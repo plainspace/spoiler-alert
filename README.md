@@ -5,6 +5,8 @@ Do you publish spoilers? Do you wish you could have them on your page in a way t
 
 ## Usage
 
+Usages and examples are summarized on the [homepage](http://plainspace.github.com/spoiler-alert/).
+
 To make your site spoiler free, simply include spoiler.js, then, add this somewhere:
 
 ```javascript
@@ -21,7 +23,7 @@ Have fun! Play with it! (but don't go over 10 .. this plugin explicitly does not
 
 ## Demo
 
-Take a look at [this](http://htmlpreview.github.com/?https://github.com/joshbuddy/spoiler-alert/blob/master/test.html) to see it in action!
+Take a look at [this](http://htmlpreview.github.com/?https://github.com/plainspace/spoiler-alert/blob/master/test.html) to see it in action!
 
 ## Tested browsers
 
