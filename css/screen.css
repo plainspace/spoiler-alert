@@ -28,7 +28,7 @@ ul { margin-left: 20px; }
 a { text-decoration: none; cursor: pointer; color: #FEE2BC; font-weight: bold; }
 a:focus { outline: 1px dotted; }
 a:visited {  }
-a:hover, a:focus { color: #FEE2BC; text-decoration: none; }
+a:hover, a:focus { color: #2f2219; text-decoration: none; }
 a *, button * { cursor: pointer; }
 hr { display: none; }
 small { font-size: 90%; }
